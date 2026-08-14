@@ -24,7 +24,7 @@ title: Asayake Hahero
 
 <h2>🔗 Links</h2>
 <div class="grid-2">
-  <a href="/blog/daily/" class="link-card">
+  <a href="{{ '/blog/daily/' | relative_url }}" class="link-card">
     <h3>📝 Daily</h3>
     <p>生成AIで加工した日記</p>
   </a>

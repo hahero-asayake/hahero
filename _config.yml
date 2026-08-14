@@ -1,6 +1,7 @@
 title: Asayake Hahero
 description: 朝焼けハヘロのホームページ
 url: "https://hahero-asayake.github.io"
+baseurl: "/hahero"
 
 plugins:
   - jekyll-sitemap
